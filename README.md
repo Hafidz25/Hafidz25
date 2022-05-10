@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Hafidz Alif Rachman</h1>
-<h3 align="center">just student lerning about programming</h3>
+<h3 align="center">just student learning about programming</h3>
 
 <p align="left"> <a href="https://twitter.com/yourasw_" target="blank"><img src="https://img.shields.io/twitter/follow/yourasw_?logo=twitter&style=for-the-badge" alt="yourasw_" /></a> </p>
 
