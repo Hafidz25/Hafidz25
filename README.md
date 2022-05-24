@@ -6,7 +6,7 @@ Student at SMKN 4 Malang
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [hafidzalif80@gmail.com](mailto:hafidzalif80@gmail.com)
-* 🧠  I'm learning React and Vue
+* 🧠  I'm learning Next and Vue
 * ⚡  just slowly person and try to conquer the world
 
 <a href="https://www.twitter.com/yourasw_" target="_blank" rel="noreferrer"><img
