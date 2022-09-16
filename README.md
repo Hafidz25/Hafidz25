@@ -1,7 +1,7 @@
 Hi 👋 My name is Hafidz Alif R.
 ===============================
 
-Student at SMKN 4 Malang
+
 ------------------------
 
 * 🌍  I'm based in Indonesia
