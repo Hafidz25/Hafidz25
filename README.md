@@ -10,7 +10,7 @@ Hi 👋 My name is Hafidz Alif R.
 * ⚡  just slowly person and try to conquer the world
 
 <a href="https://www.twitter.com/yourasu_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yourasw_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/yourasu_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
