@@ -9,7 +9,7 @@ Hi 👋 My name is Hafidz Alif R.
 * 🧠  I'm learning React and Vue
 * ⚡  just slowly person and try to conquer the world
 
-<a href="https://www.twitter.com/yourasw_" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/yourasu_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yourasw_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
