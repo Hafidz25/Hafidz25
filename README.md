@@ -6,7 +6,7 @@ Hi 👋 My name is Hafidz Alif R.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [hafidzalif80@gmail.com](mailto:hafidzalif80@gmail.com)
-* 🧠  I'm learning React and Vue
+* 🧠  I'm learning about React
 * ⚡  just slowly person and try to conquer the world
 
 <a href="https://www.twitter.com/yourasu_" target="_blank" rel="noreferrer"><img
