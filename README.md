@@ -1,4 +1,4 @@
-Hi 👋 My name is Hafidz Alif R.
+Hi 👋 My name is Hafidz Alif Rachman
 ===============================
 
 
