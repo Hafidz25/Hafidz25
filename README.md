@@ -6,7 +6,7 @@ Hi 👋 My name is Hafidz Alif Rachman
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [hafidzalif80@gmail.com](mailto:hafidzalif80@gmail.com)
-* 🧠  I'm learning about React
+* 🧠  I'm learning about Web Development
 * ⚡  just slowly person and try to conquer the world
 
 <a href="https://www.twitter.com/yourasu_" target="_blank" rel="noreferrer"><img
