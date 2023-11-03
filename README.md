@@ -9,6 +9,4 @@ Hi 👋 My name is Hafidz
 * ⚡  just slowly person and try to conquer the world
 
 ------------------------
-<br>
-![](https://raw.githubusercontent.com/Hafidz25/github-stats/main/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Hafidz25/github-stats/main/generated/languages.svg#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hafidz25&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
