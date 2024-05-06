@@ -3,10 +3,7 @@ Hi 👋 My name is Hafidz
 ========================
 
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [hafidzalif80@gmail.com](mailto:hafidzalif80@gmail.com)
-* 🧠  I'm learning about Web Development
-* ⚡  just slowly person and try to conquer the world
+Hi, my name is Hafidz Alif Rachman, also known as Hafidz, is an aspiring front-end developer with just one month of experience. He has shown dedication and a keen ability to master various web frameworks. Hafidz's journey began with a solid foundation in HTML, CSS, and JavaScript, enabling him to create basic web pages and delve into popular frameworks like TailwindCSS, React, and Laravel.
 
 <h3 align="left">🛠 Language and tools</h3>
 
