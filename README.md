@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-Hi <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" height="50"/> my name is Hafidz
+Hi, my name is Hafidz
 ========================
 
 
-Hi, I am an enthusiastic and experienced junior Front-end developer with a strong focus on front-end development. Proficient in design and possessing a deep understanding of all aspects of web technology. A collaborative team player dedicated to creating efficient, scalable, and visually appealing web applications. <br>
+I am an enthusiastic and experienced junior Front-end developer with a strong focus on front-end development. Proficient in design and possessing a deep understanding of all aspects of web technology. A collaborative team player dedicated to creating efficient, scalable, and visually appealing web applications. <br>
 
 
 <h3 align="left">🛠 Language and tools</h3>
