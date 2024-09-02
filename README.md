@@ -3,7 +3,7 @@ Hi <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" widt
 ========================
 
 
-Hi, my name is Hafidz Alif Rachman, also known as Hafidz, is an aspiring front-end developer with just one month of experience. I have shown dedication and a keen ability to master various web frameworks. My journey began with a solid foundation in HTML, CSS, and JavaScript, enabling me to create basic web pages and delve into popular frameworks like TailwindCSS, React, and Laravel. <br>
+Hi, I am an enthusiastic and experienced junior Front-end developer with a strong focus on front-end development. Proficient in design and possessing a deep understanding of all aspects of web technology. A collaborative team player dedicated to creating efficient, scalable, and visually appealing web applications. <br>
 
 
 <h3 align="left">🛠 Language and tools</h3>
