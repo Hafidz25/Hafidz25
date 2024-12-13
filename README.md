@@ -6,7 +6,7 @@ Hi, my name is Hafidz
 I am an enthusiastic and experienced junior Front-end developer with a strong focus on front-end development. Proficient in design and possessing a deep understanding of all aspects of web technology. A collaborative team player dedicated to creating efficient, scalable, and visually appealing web applications. <br>
 
 
-<h3 align="left">🛠️Language and tools</h3>
+<h3 align="left">🛠️ Language and tools</h3>
 
 ###
 
