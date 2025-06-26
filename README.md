@@ -31,7 +31,7 @@ I am an enthusiastic and experienced junior Front-end developer with a strong fo
 </div>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" > -->
 
-<br>
+<br><br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xwl6xjcsp22q6ydh6raxjnpedi&unique={true|1|on|yes})
 
